@@ -2,7 +2,7 @@
     "versionName": "1.0",
     "storeLink": "market://details?id=lk.slbi.catalog",
     "protocol": "https://",
-    "hostName": "www.rocketsales.lk",
+    "hostName": "www.rocketsales.l",
     "routes": {
             "cart": "cart/",
             "checkout": "checkout/",
